@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">20230707-KenNnaoji-NYCSchools</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="new_york">New York</string>
+    <string name="school_district">School District</string>
+    <string name="school_name">School Name</string>
+    <string name="num_of_sat_test_takers">Number of sat test takers</string>
+    <string name="sat_critical_reading_avg_score">Reading Average Score:</string>
+    <string name="sat_math_avg_score">Math Average Score:</string>
+    <string name="sat_writing_avg_score">Writing Average Score:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="email">Email:</string>
+    <string name="website">Website:</string>
+    <string name="location">Location:</string>
+    <string name="ell_programs">Program:</string>
+    <string name="overview_paragraph">Overview:</string>
+
+</resources>
